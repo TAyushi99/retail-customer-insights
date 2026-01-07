@@ -20,6 +20,3 @@ identify key trends, and generate actionable business insights.
 - Online channel generates higher order volume
 - Customers with higher ratings tend to repeat purchases
 - Seasonal trends significantly impact sales
-
-
-
