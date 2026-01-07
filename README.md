@@ -21,5 +21,5 @@ identify key trends, and generate actionable business insights.
 - Customers with higher ratings tend to repeat purchases
 - Seasonal trends significantly impact sales
 
-## Project St
+
 
